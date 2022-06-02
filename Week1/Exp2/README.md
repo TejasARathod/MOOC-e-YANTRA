@@ -33,7 +33,7 @@ Out task was to toggle the status of 2 Bar-graph LEDs depending on whether the I
 
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/25c8ac346e9e58baf64f8f2222056ae60cd1e260/Week1/Exp2/Screenshot%202022-06-02%20203210.png)
 
-![]()
+
 
