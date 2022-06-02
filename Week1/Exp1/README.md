@@ -16,7 +16,7 @@ In this experiment, we had to interface a Buzzer with the ATmega2560 microcontro
 
 ## Output
 
-![](https://github.com/TejasARathod/Goggles-for-Blind-using-Arduino/blob/039908b32f58e4d3700e2d64c75a08da75f28bcd/Circuit.png)
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/56ac80ab0b5667cf14b59adfeb112357960d06dd/Week1/Exp1/Screenshot%202022-06-02%20202752.png)
 
-![](https://github.com/TejasARathod/Goggles-for-Blind-using-Arduino/blob/039908b32f58e4d3700e2d64c75a08da75f28bcd/Circuit.png)
+![]()
 
