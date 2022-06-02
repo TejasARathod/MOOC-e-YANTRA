@@ -51,6 +51,8 @@ This 40 Days Course is offered along with a Challenge activity to help hone our 
 
 **IDE Used:** Microchip Studio
 
+## Certificate
+[Link For Certificate](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/f34d270ccc176d2e89e31d902457420b20b4b0ad/certificate.pdf)
 
 ## Authors
 
