@@ -18,5 +18,5 @@ In this experiment, we had to interface a Buzzer with the ATmega2560 microcontro
 
 ![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/56ac80ab0b5667cf14b59adfeb112357960d06dd/Week1/Exp1/Screenshot%202022-06-02%20202752.png)
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/88fe4cbb43dbfde1f775a5ffa665daa5e181b53f/Week1/Exp1/Screenshot%202022-06-02%20202852.png)
 
