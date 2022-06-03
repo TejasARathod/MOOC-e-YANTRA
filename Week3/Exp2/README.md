@@ -27,7 +27,7 @@ In this experiment, we had to interface the L293D motor driver already connected
         Right Motor	|            PL4	           |          PD6
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/3129ef3cb7c7cd15ed4b1576727dd531158da0ad/Week3/Exp2/Screenshot%202022-06-03%20204502.png)
 
-![]()
+
 
