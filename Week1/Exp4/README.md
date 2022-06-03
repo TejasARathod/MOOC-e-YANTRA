@@ -27,7 +27,7 @@ Our task was to display moving-scrolling and static text/string on LCD using ATm
 
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/926714c6409f447f88a07bffea4a0b53237f4c6d/Week1/Exp4/Screenshot%202022-06-03%20200005.png)
 
 ![]()
 
