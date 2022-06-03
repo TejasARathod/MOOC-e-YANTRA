@@ -26,7 +26,7 @@ To represent the same numeral of up to 8-bits in different number systems on the
 
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/5f3025f0553104bad391648c99ae91a8dbe5b6bc/Week1/Exp3/Screenshot%202022-06-03%20195415.png)
 
-![]()
+
 
