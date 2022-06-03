@@ -20,7 +20,7 @@ In this experiment, we had to turn ON the Buzzer present on the Firebird-V when 
 
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/b7441e91ff9cff1599e84f1580fc307d63b3ba67/Week3/Exp1/Screenshot%202022-06-03%20203348.png)
 
-![]()
+
 
