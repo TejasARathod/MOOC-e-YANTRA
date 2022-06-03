@@ -54,7 +54,7 @@ Switch Connections:
         DOWN	     |       3	       |        PE5
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/076a75323d59063f83865ec37055463b7371940b/Week4/Challenge%20Activity%202/Screenshot%202022-06-03%20221306.png)
 
-![]()
+
 
