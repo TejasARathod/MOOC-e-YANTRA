@@ -32,7 +32,7 @@ Our task was to get the 8-bit ADC result from the three white line sensors and 3
 
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/ce2bb022a1acc2593629357d16aaaf2021cd47ea/Week2/Exp1/Screenshot%202022-06-03%20201342.png)
 
-![]()
+
 
