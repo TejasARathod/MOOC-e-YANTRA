@@ -19,7 +19,7 @@ In this experiment, we had to display custom characters on LCD.
     DB4	            |            PC4	        |             PD4
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/37d8b036782bf45126781bd371753312fc5867fc/Week4/Challenge%20Activity%201/Screenshot%202022-06-03%20205212.png)
 
-![]()
+
 
