@@ -26,7 +26,7 @@ Our task was to get the 10-bit ADC result from the 2nd Sharp sensor in Single Co
 
 ## Output
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/9980589886b43c6e249f13e53477e5ca42addb84/Week2/Exp2/unknown.png)
 
-![]()
+
 
