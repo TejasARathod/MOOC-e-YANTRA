@@ -29,5 +29,5 @@ Our task was to display moving-scrolling and static text/string on LCD using ATm
 
 ![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/926714c6409f447f88a07bffea4a0b53237f4c6d/Week1/Exp4/Screenshot%202022-06-03%20200005.png)
 
-![]()
+![](https://github.com/TejasARathod/MOOC-e-YANTRA/blob/b4c540c0e878e4b246c8ac9770d8e39afd89dae8/Week1/Exp4/Screenshot%202022-06-03%20200028.png)
 
